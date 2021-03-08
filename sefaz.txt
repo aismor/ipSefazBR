@@ -1,0 +1,8 @@
+nfce.fazenda.mg.gov.br
+nfce.fazenda.sp.gov.br
+nfce.sefaz.am.gov.br
+nfce.svrs.rs.gov.br
+nfe.sefaz.go.gov.br
+nfce.sefaz.ms.gov.br
+nfce.sefa.pr.gov.br
+nfce.sefazrs.rs.gov.br
